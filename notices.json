@@ -1,27 +1,3 @@
 {
-  "notices": [
-    {
-      "id": "test-info-1",
-      "severity": "info",
-      "title": "Test info notice",
-      "message": "This is an info notice. Anyone can dismiss it, and it stays dismissed for them.",
-      "link": "https://github.com/xoriin/netmap"
-    },
-    {
-      "id": "test-warning-1",
-      "severity": "warning",
-      "title": "Test warning notice",
-      "message": "This is a warning notice. It looks more urgent but can still be dismissed by each user.",
-      "show_from": "1.8.0"
-    },
-    {
-      "id": "test-breaking-1",
-      "severity": "breaking",
-      "title": "Test breaking notice",
-      "message": "Only SuperAdmins see this. It stays until one of them clicks Acknowledge, then it is gone for everyone.",
-      "link": "https://github.com/xoriin/netmap/releases",
-      "show_below": "2.0.0",
-      "ends": "2026-11-07"
-    }
-  ]
+  "notices": []
 }
