@@ -1,6 +1,6 @@
 # NetMap notices
 
-NetMap installs read `notices.json` from this repository every 6 hours and show any notice that matches their version. Nothing about the install is sent; it is a plain HTTPS GET of the raw file.
+NetMap installs read `notices.json` from this repository every hour and show any notice that matches their version. Nothing about the install is sent; it is a plain HTTPS GET of the raw file.
 
 ## Format
 
